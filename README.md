@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Ramiro Quevedo Paz!
 
-🎓 Estudante de tecnologia e apaixonado por programação
-💻 Focado em desenvolvimento de software, automações e backend
+🎓 Estudante de tecnologia e apaixonado por programação <br>
+💻 Focado em desenvolvimento de software, automações e backend <br>
 🚀 Sempre em busca de aprender novas tecnologias e evoluir como desenvolvedor
 
 ---
