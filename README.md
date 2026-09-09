@@ -9,8 +9,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ratimoi&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ratimoi&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://gh-readme-stats.vercel.app/api?username=Ratimoi&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Ratimoi&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -24,7 +24,9 @@
   <img align="center" alt="Ram-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ram-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ram-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ram-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ram-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Ram-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Ram-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ---
