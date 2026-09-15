@@ -24,12 +24,11 @@
 **[Sistema Bancário Digital](https://github.com/Ratimoi/sistema-banco-digital)** — API bancária completa com frontend React, containerizada e implantada (Render + Supabase/PostgreSQL).
 `Node.js` `Express` `TypeScript` `Prisma` `React` `Docker`
 
-**Bot de Ofertas** — Sistema que capta ofertas do Mercado Livre, Shopee e Amazon e publica automaticamente em Telegram e WhatsApp, orquestrado via n8n.
+**[Bot de Ofertas](https://github.com/Ratimoi/bot-ofertas-mercadolivre-whatsapp)** — Sistema que capta ofertas do Mercado Livre, Shopee e Amazon e publica automaticamente em Telegram e WhatsApp, orquestrado via n8n.
 `TypeScript` `Prisma` `PostgreSQL` `n8n` `Zod`
 
-**App de Gestão Acadêmica** — App mobile offline-first para controle de provas, trabalhos e média ponderada, com linha do tempo de 24h.
+**[App de Gestão Acadêmica](https://github.com/Ratimoi/provazo)** — App mobile offline-first para controle de provas, trabalhos e média ponderada, com linha do tempo de 24h.
 `React Native` `Expo` `SQLite`
-
 ---
 
 ### 🛠️ Stack técnica
