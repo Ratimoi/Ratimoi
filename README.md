@@ -29,6 +29,7 @@
 
 **[App de Gestão Acadêmica](https://github.com/Ratimoi/provazo)** — App mobile offline-first para controle de provas, trabalhos e média ponderada, com linha do tempo de 24h.
 `React Native` `Expo` `SQLite`
+
 ---
 
 ### 🛠️ Stack técnica
